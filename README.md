@@ -1,6 +1,7 @@
 # Njiwa Water Project: Power BI Dashboard
 
 A Power BI dashboard that tracks a water-access improvement program: how many improvements are complete, how much has been spent against budget, where and on what the money went, and how many people now have basic water access.
+![Dashboard overview](Screenshots/dashboard.png.png)
 
 
 
@@ -84,9 +85,9 @@ Seven tables connected by six relationships: project progress, visits, and well 
 
 ## Files
 
-* screenshots: dashboard screenshots
-* `Njiwa\_Water\_Project.pbix`: the Power BI report file
-* `data/`: a small sample of the data 
+- `Screenshots/`: dashboard screenshots
+- `Njiwa Water Project.pbix`: the Power BI report file
+
 
 
 
