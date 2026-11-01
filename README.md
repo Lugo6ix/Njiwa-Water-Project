@@ -30,7 +30,7 @@ Njiwa has a critical shortage of safe drinking water. Sources are contaminated o
 
 ## Data
 
-Source: \[dataset source or course name]. The Excel workbook has seven tables used in the model:
+Source: \Dataset provided by my tutor, Samuel Okon, on my data analytics course. The Excel workbook has seven tables used in the model:
 
 |Table|Rows|
 |-|-|
